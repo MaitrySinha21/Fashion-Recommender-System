@@ -10,6 +10,6 @@
  
  #### Output-
  
- ![real-output](https://user-images.githubusercontent.com/85226862/175788697-15cf926a-41d9-4eaa-b7a0-ce4abf44b9bf.gif)
+
 
 
