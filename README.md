@@ -6,7 +6,7 @@
 
  **DenseNet121**  
  
- **KNN Classifier.**
+ **KNN Classifier**
  
  #### Output-
  
