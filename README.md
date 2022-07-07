@@ -9,6 +9,8 @@
  **KNN Classifier**
  
  #### Output-
+ ![fashion](https://user-images.githubusercontent.com/85226862/177802142-9b1d5740-b0b2-4131-986d-2f586417edda.gif)
+
  
 
 
